@@ -2,10 +2,11 @@
 
 Basic Python exercises, primarily from Exercism, covering core language concepts.
 
-## Exercises
+## Exercises from Exercism
 
-### lasagna
+### lasagna.py
 **Source:** Exercism — Python Track (Functions)
+
 **Covers:** defining functions with parameters, basic arithmetic, docstrings
 
 ### [next exercise]
