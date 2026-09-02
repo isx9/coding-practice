@@ -1,8 +1,8 @@
 # Fundamentals
 
-Basic Python exercises, primarily from Exercism, covering core language concepts.
+Basic Python exercises covering core language concepts.
 
-## Exercises from Exercism
+## Exercism Exercises
 
 ### lasagna.py
 **Source:** Exercism — Python Track (Functions)
