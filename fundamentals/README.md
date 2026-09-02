@@ -13,3 +13,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Booleans)
 
 **Covers:** boolean logic, combining conditions with and/or/not
+
+### currency-exchange
+**Source:** Exercism — Python Track (Numbers)
+
+**Covers:** float/int arithmetic, floor division, modulo, type conversion
