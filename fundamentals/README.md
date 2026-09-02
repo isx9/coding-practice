@@ -23,3 +23,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Booleans)
 
 **Covers:** modulo arithmetic, compound boolean conditions
+
+### nuclear_meltdown.py
+**Source:** Exercism — Python Track (Booleans/Conditionals)
+
+**Covers:** compound conditions, multi-branch logic, threshold ranges
