@@ -9,6 +9,7 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** defining functions with parameters, basic arithmetic, docstrings
 
-### [next exercise]
-**Source:** ...
-**Covers:** ...
+### pacman-rules
+**Source:** Exercism — Python Track (Booleans)
+
+**Covers:** boolean logic, combining conditions with and/or/not
