@@ -29,7 +29,7 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** compound conditions, multi-branch logic, threshold ranges
 
-### blackjack
+### blackjack.py
 **Source:** Exercism — Python Track (Conditionals)
 
 **Covers:** multi-branch logic, sets, tuples, error handling, nested conditionals
