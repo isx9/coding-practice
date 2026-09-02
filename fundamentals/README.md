@@ -28,3 +28,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Booleans/Conditionals)
 
 **Covers:** compound conditions, multi-branch logic, threshold ranges
+
+### blackjack
+**Source:** Exercism — Python Track (Conditionals)
+
+**Covers:** multi-branch logic, sets, tuples, error handling, nested conditionals
