@@ -33,3 +33,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Conditionals)
 
 **Covers:** multi-branch logic, sets, tuples, error handling, nested conditionals
+
+### prefixes.py
+**Source:** Exercism — Python Track (Comprehensions)
+
+**Covers:** string slicing, list comprehensions, string joining, conditional returns
