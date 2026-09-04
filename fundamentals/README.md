@@ -43,3 +43,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Strings)
 
 **Covers:** string splitting/joining, `.strip()`, `.capitalize()`, string comparison, punctuation handling
+
+### bob.py
+**Source:** Exercism — Python Track (Conditionals)
+
+**Covers:** string methods (`.strip()`, `.isupper()`, `.endswith()`), multi-branch conditionals, whitespace handling
