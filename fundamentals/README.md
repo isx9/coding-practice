@@ -38,3 +38,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Comprehensions)
 
 **Covers:** string slicing, list comprehensions, string joining, conditional returns
+
+### essay_editing.py
+**Source:** Exercism — Python Track (Strings)
+
+**Covers:** string splitting/joining, `.strip()`, `.capitalize()`, string comparison, punctuation handling
