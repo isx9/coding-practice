@@ -59,3 +59,8 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** List slicing, list concatenation, membership testing (`in`), enumerate(), conditional aggregation, average calculation
 
+### darts.py
+**Source:** Exercism Python Track — Darts
+
+**Covers:** Distance calculation via Pythagorean theorem, squared-distance comparison (avoiding sqrt), nested conditional ranges
+
