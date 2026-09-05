@@ -53,3 +53,9 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Raindrops
 
 **Covers:** Modulo operator, string concatenation, conditional logic, multiple independent conditions
+
+### card_games.py
+**Source:** Exercism Python Track — Card Games
+
+**Covers:** List slicing, list concatenation, membership testing (`in`), enumerate(), conditional aggregation, average calculation
+
