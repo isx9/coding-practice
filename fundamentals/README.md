@@ -48,3 +48,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism — Python Track (Conditionals)
 
 **Covers:** string methods (`.strip()`, `.isupper()`, `.endswith()`), multi-branch conditionals, whitespace handling
+
+### raindrops.py
+**Source:** Exercism Python Track — Raindrops
+
+**Covers:** Modulo operator, string concatenation, conditional logic, multiple independent conditions
