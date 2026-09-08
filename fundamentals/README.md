@@ -68,3 +68,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Triangle
 
 **Covers:** Triangle inequality validation, shared helper function, chained comparisons, multi-branch classification logic
+
+### collatz_conjecture.py
+**Source:** Exercism Python Track — Collatz Conjecture
+
+**Covers:** While loops, modulo arithmetic, floor division, step counting, input validation with `ValueError`
