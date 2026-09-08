@@ -64,3 +64,7 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** Distance calculation via Pythagorean theorem, squared-distance comparison (avoiding sqrt), nested conditional ranges
 
+### triangle.py
+**Source:** Exercism Python Track — Triangle
+
+**Covers:** Triangle inequality validation, shared helper function, chained comparisons, multi-branch classification logic
