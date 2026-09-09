@@ -73,3 +73,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Collatz Conjecture
 
 **Covers:** While loops, modulo arithmetic, floor division, step counting, input validation with `ValueError`
+
+### rotational_cipher.py
+**Source:** Exercism Python Track — Rotational Cipher
+
+**Covers:** String indexing, modulo wraparound, case preservation (`.isupper()`/`.upper()`/`.lower()`), input validation with `ValueError`
