@@ -78,3 +78,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Rotational Cipher
 
 **Covers:** String indexing, modulo wraparound, case preservation (`.isupper()`/`.upper()`/`.lower()`), input validation with `ValueError`
+
+### pangram.py
+**Source:** Exercism Python Track — Pangram
+
+**Covers:** Sets for uniqueness tracking, case normalization, membership testing (`in`)
