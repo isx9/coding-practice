@@ -83,3 +83,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Pangram
 
 **Covers:** Sets for uniqueness tracking, case normalization, membership testing (`in`)
+
+### grains.py
+**Source:** Exercism Python Track — Grains
+
+**Covers:** Exponents, `range()` for inclusive loops, accumulator pattern, input validation with `ValueError`
