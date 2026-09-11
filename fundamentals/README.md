@@ -88,3 +88,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Grains
 
 **Covers:** Exponents, `range()` for inclusive loops, accumulator pattern, input validation with `ValueError`
+
+### isbn_verifier.py
+**Source:** Exercism Python Track — Booleans / Validation
+
+**Covers:** string iteration, character classification (`isdigit`), conditional branching without `elif`-after-`return`, list length validation, checksum arithmetic, `while` loop with manual index tracking
