@@ -93,3 +93,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Booleans / Validation
 
 **Covers:** string iteration, character classification (`isdigit`), conditional branching without `elif`-after-`return`, list length validation, checksum arithmetic, `while` loop with manual index tracking
+
+### perfect_numbers.py
+**Source:** Exercism Python Track — Recursion/Numbers
+
+**Covers:** aliquot sum calculation, exception handling with `raise ValueError`, avoiding `no-else-return`, module/function docstrings, PEP 8 spacing conventions
