@@ -98,3 +98,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Recursion/Numbers
 
 **Covers:** aliquot sum calculation, exception handling with `raise ValueError`, avoiding `no-else-return`, module/function docstrings, PEP 8 spacing conventions
+
+### isogram.py
+**Source:** Exercism Python Track — Isogram
+
+**Covers:** string iteration, set-based membership testing, early return on duplicates
