@@ -114,3 +114,8 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** two-pass base conversion (decode to decimal, then encode to target base), `enumerate` with `reversed()`, floor division and modulo for digit extraction, input validation with `ValueError`, edge-case handling for empty/all-zero input
 
+### line_up.py
+**Source:** Exercism Python Track — Numbers / Strings
+
+**Covers:** modulo arithmetic for digit extraction, f-strings
+
