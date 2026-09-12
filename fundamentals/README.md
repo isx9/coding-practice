@@ -108,3 +108,9 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Lists
 
 **Covers:** list mutation methods, in-place vs. copy-returning operations
+
+### rebase.py
+**Source:** Exercism Python Track — Numbers / Base Conversion
+
+**Covers:** two-pass base conversion (decode to decimal, then encode to target base), `enumerate` with `reversed()`, floor division and modulo for digit extraction, input validation with `ValueError`, edge-case handling for empty/all-zero input
+
