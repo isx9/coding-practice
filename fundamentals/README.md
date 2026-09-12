@@ -119,3 +119,7 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** modulo arithmetic for digit extraction, f-strings
 
+### student_scores.py
+**Source:** Exercism Python Track — Lists / List Comprehensions
+
+**Covers:** `round()` vs `int()` truncation, list comprehensions with filtering conditions, cumulative threshold calculation with rounding, `enumerate`-style indexing for rank/name/score formatting, early-return pattern for "first match" search
