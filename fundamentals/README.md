@@ -103,3 +103,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Isogram
 
 **Covers:** string iteration, set-based membership testing, early return on duplicates
+
+### queue_tools.py
+**Source:** Exercism Python Track — Lists
+
+**Covers:** list mutation methods, in-place vs. copy-returning operations
