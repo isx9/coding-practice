@@ -1,7 +1,5 @@
 def color_code(color):
     """Return the numeric value associated with a given resistor color band.
-
-    Raises a ValueError if the color is not a recognized band color.
     """
     return colors().index(color)
 
