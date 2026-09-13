@@ -128,3 +128,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Strings/Transformation
 
 **Covers:** string iteration, character mapping, list accumulation with `str.join()`
+
+### resistor_color.py
+**Source:** Exercism Python Track — Strings/Lists/Enumeration
+
+**Covers:** list-based lookup, `list.index()`, shared data source between functions
