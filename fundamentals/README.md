@@ -123,3 +123,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Lists / List Comprehensions
 
 **Covers:** `round()` vs `int()` truncation, list comprehensions with filtering conditions, cumulative threshold calculation with rounding, `enumerate`-style indexing for rank/name/score formatting, early-return pattern for "first match" search
+
+### rna_transcription.py
+**Source:** Exercism Python Track — Strings/Transformation
+
+**Covers:** string iteration, character mapping, list accumulation with `str.join()`
