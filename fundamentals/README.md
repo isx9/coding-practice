@@ -133,3 +133,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Strings/Lists/Enumeration
 
 **Covers:** list-based lookup, `list.index()`, shared data source between functions
+
+### resistor_color_duo.py
+**Source:** Exercism Python Track — Strings/Lists/Enumeration
+
+**Covers:** list comprehension, index lookup, slicing, string-to-int conversion
