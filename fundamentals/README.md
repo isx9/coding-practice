@@ -143,3 +143,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Higher-Order Functions
 
 **Covers:** manual list operations, functions as parameters, fold/reduce (left and right), `extend()`, `insert()`, `reversed()`
+
+### armstrong_numbers.py
+**Source:** Exercism Python Track — Armstrong Numbers
+
+**Covers:** digit extraction, list comprehensions, exponentiation, accumulator pattern, equality checks
