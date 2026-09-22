@@ -148,3 +148,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Armstrong Numbers
 
 **Covers:** digit extraction, list comprehensions, exponentiation, accumulator pattern, equality checks
+
+### difference_of_squares.py
+**Source:** Exercism Python Track — Difference of Squares
+
+**Covers:** range() iteration, arithmetic series, exponentiation, accumulator pattern, function decomposition
