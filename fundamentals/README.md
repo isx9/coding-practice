@@ -159,3 +159,7 @@ Basic Python exercises covering core language concepts.
 
 **Covers:** `list.index()` lookup, positional digit arithmetic, powers of ten, modulo checks for exact divisibility, floor division, metric prefix selection from largest to smallest unit, zero-value edge case
 
+### flatten_array.py
+**Source:** Exercism Python Track — Flatten Array
+
+**Covers:** recursion on nested lists, type checking with `isinstance()`, `None` filtering with `is not None`, `list.extend()` vs `list.append()`
