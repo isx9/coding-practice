@@ -153,3 +153,9 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Difference of Squares
 
 **Covers:** range() iteration, arithmetic series, exponentiation, accumulator pattern, function decomposition
+
+### resistor_color_trio.py
+**Source:** Exercism Python Track — Resistor Color Trio
+
+**Covers:** `list.index()` lookup, positional digit arithmetic, powers of ten, modulo checks for exact divisibility, floor division, metric prefix selection from largest to smallest unit, zero-value edge case
+
