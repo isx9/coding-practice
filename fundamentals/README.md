@@ -163,3 +163,8 @@ Basic Python exercises covering core language concepts.
 **Source:** Exercism Python Track — Flatten Array
 
 **Covers:** recursion on nested lists, type checking with `isinstance()`, `None` filtering with `is not None`, `list.extend()` vs `list.append()`
+
+### matching_brackets.py
+**Source:** Exercism Python Track — Matching Brackets
+
+**Covers:** stack-based matching with `list.append()` and `list.pop()`, set membership testing for opening brackets, short-circuit evaluation to guard against popping an empty list, early return on mismatch, empty-stack check for unclosed brackets
