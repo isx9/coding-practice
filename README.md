@@ -1,7 +1,7 @@
 # Coding Practice
 A record of deliberate coding exercises to review and build fundamentals alongside my applied project work.
 
-## Structuref
+## Structure
 - `fundamentals/` — exercises covering basic concepts
 - `pandas-sql/` — pandas and SQL
 - `interview-prep/` — StrataScratch and LeetCode problems
