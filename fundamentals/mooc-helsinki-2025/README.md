@@ -6,8 +6,6 @@ This folder includes only the exercises that best represent the concepts covered
 
 Course material © University of Helsinki / MOOC.fi. Exercise descriptions below are my own summaries.
 
-**Certificate:** [link to certificate]
-
 ---
 
 ## Introduction to Programming (Parts 4–7)
